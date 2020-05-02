@@ -1,0 +1,1 @@
+Lisede yapmış olduğum veritabanı projesi
